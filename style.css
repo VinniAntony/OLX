@@ -232,12 +232,13 @@ li:hover  {
     height:20px;
     float: left;
     
+    
 }
 .footer-top {
     display: flex;
     background-color: #3a8fff;
     color: black;
-    padding-left: 700px;
+    padding-left: 750px;
     border-top: 2px solid #003434;
     
 }
@@ -252,12 +253,13 @@ li:hover  {
 .footer-link {
     margin: px;
     padding-top: 50px;
+    padding-left: 150px;
     
 }
 .footer-bottom {
     padding-top: 25px;
     padding-bottom: 25px;
-    padding-left: 600px;
+    padding-left: 750px;
     background-color:  #001534;
     border-top: 3px solid #003434;
     color: #fff;
